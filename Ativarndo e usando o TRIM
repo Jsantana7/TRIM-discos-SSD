@@ -1,8 +1,11 @@
 # TRIM Manual
 
-Ativando e usando o TRIM em discos SSD no Ubuntu Linux
+## Ativando e usando o TRIM em discos SSD no Ubuntu Linux
+
 Para ativar e usar o TRIM em discos SSD no Ubuntu Linux, faça o seguinte:
+
 Passo 1. Se não estiver aberto, execute um terminal usando o Dash ou pressionando as teclas CTRL+ALT+T;
+
 Passo 2. Confirme se você tem um SSD como o comando abaixo. Se o resultado for 0 você tem um SSD, mas se for 1 que é um HDD:
 
 cat /sys/block/sda/queue/rotational
