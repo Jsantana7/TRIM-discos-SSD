@@ -1,0 +1,2 @@
+# TRIM-discos-SSD
+POPos
