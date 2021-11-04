@@ -52,4 +52,4 @@ Pronto. *Agora seu sistema está com o TRIM habilitado.*
 
 *Verificando se o Trim esta ativado*
 
-`systemctl status fstrim.time`
+`systemctl status fstrim.timer`
